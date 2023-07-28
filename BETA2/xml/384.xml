@@ -1,0 +1,50 @@
+<gallery>
+	<setup>
+		<autoPlay>0</autoPlay>
+		<slideshowWidth></slideshowWidth>
+		<slideshowHeight></slideshowHeight>
+		<imgWidth>342</imgWidth>
+     	<imgHeight>342</imgHeight>
+		<thumbWidth>50</thumbWidth>
+		<thumbHeight>50</thumbHeight>
+		<thumbSpace></thumbSpace>
+		<path>images/slideshows</path>
+	</setup>	
+
+
+<item>
+ <thumb>6992t0lzqtm401qs_tmb.jpg</thumb>
+<img>6992t0lzqtm401qs.jpg</img>
+<name><![CDATA[6992t0lzqtm401qs]]></name>
+<caption><![CDATA[6992t0lzqtm401qs]]></caption>
+</item>
+
+<item>
+ <thumb>80nt767su6fslia3_tmb.jpg</thumb>
+<img>80nt767su6fslia3.jpg</img>
+<name><![CDATA[80nt767su6fslia3]]></name>
+<caption><![CDATA[80nt767su6fslia3]]></caption>
+</item>
+
+<item>
+ <thumb>jrxkx8bku6iylqer_tmb.jpg</thumb>
+<img>jrxkx8bku6iylqer.jpg</img>
+<name><![CDATA[jrxkx8bku6iylqer]]></name>
+<caption><![CDATA[jrxkx8bku6iylqer]]></caption>
+</item>
+
+<item>
+ <thumb>ymssvdrm8ephff0z_tmb.jpg</thumb>
+<img>ymssvdrm8ephff0z.jpg</img>
+<name><![CDATA[ymssvdrm8ephff0z]]></name>
+<caption><![CDATA[ymssvdrm8ephff0z]]></caption>
+</item>
+
+<item>
+ <thumb>88j5fuoa189lymcw_tmb.jpg</thumb>
+<img>88j5fuoa189lymcw.jpg</img>
+<name><![CDATA[88j5fuoa189lymcw]]></name>
+<caption><![CDATA[88j5fuoa189lymcw]]></caption>
+</item>
+</gallery>
+  

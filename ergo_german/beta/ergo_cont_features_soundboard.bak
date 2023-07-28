@@ -1,0 +1,89 @@
+<html>
+<head>
+
+<title>Ergo Guitars by Charles Fox - Feature - Soundboard</title>
+
+<meta name="content-language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="index,follow,imageindex">
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+if (top.location == self.location) {
+self.location.replace ("index.htm") }
+// -->
+</script>
+
+<script language="javascript" type="text/javascript" src="ergo_js_flash_detect.js">
+	<!--
+	function getFlashVersion() { return null; };
+	//-->
+</script>
+
+<script language="javascript" type="text/javascript">
+	<!--
+	var flashVersion = getFlashVersion();
+	if (flashVersion < 5) {
+		location.replace("ergo_upgrade.htm");
+	}
+	else
+		hasFlash5 = 1;
+	//-->
+</script>
+
+<link rel='stylesheet' type='text/css' href='ergo_style.css'>
+
+<script src="ergo_js_message.js" language="JavaScript" type="text/Javascript">
+</script>
+
+<style>
+H1 {position:absolute;top:5;left:5}
+H2 {position:absolute;top:30;left:390}
+H3 {position:absolute;top:300;left:390}
+</style>
+
+</head>
+
+<body bgcolor="#000000" topmargin=0 leftmargin=0 marginheight=0 marginwidth=0>
+
+<H1><script language="JavaScript" type="text/JavaScript">
+		<!--
+		if (hasFlash5){
+			with(document){
+				writeln('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash/cabs/swflash.cab#version=4,0,0,0" ID=movie WIDTH=342 HEIGHT=342>');
+				writeln('<PARAM NAME=movie VALUE="ergo_slides_soundboard_1.swf">');
+				writeln('<PARAM NAME=loop VALUE=true>');
+				writeln('<PARAM NAME=quality VALUE=high>');
+				writeln('<PARAM NAME=menu VALUE=false>');
+				writeln('<PARAM NAME=bgcolor VALUE=#000000>');
+				writeln('<EMBED SRC="ergo_slides_soundboard_1.swf"');
+				writeln(' swLiveConnect="false" ID=movie WIDTH=342 HEIGHT=342');
+				writeln(' LOOP=true QUALITY=high MENU=false BGCOLOR=#000000');
+				writeln(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+				writeln('</EMBED></OBJECT>');
+				}
+			}
+		//-->
+</script>
+</H1>
+
+<H2>
+<table cellpadding=0 cellspacing=0 border=0 width=600>
+	<tr>
+		<td width=580 align="left" valign="top"><font class="title">Features</font><br><br><br>
+
+
+		<font class="body">
+
+		<font class="subtitle">Parabelförmiger Resonanzkörper mit geringer Masse</font><br><br>
+
+		Die revolutionärste Eigenschaft der ergo besteht zweifellos in der extrem geringen Masse des parabelförmigen Resonanzkörpers*. Der Verbundstoff, aus dem er gefertigt ist, besitzt einen Kern aus 1,5mm starkem Hightech-Wabenmaterial, das zwischen zwei hauchdünne Schichten eines Klangholzes höchster Güteklasse eingebettet ist. Sein Gewicht liegt somit um 40% niedriger als das der entsprechenden Ausführung in Massivholz - geringeres Gewicht wiederum ist gleichbedeutend mit stärkerer Ausdruckskraft der Saiten und deutlicherer Differenzierung ihrer feinsten Harmonien. Durch die runden Konturen des Resonanzkörpers sowie seinen kreuzweise verstärkten Verwindungsbereich wird eine enorme Festigkeit und Stabilität erreicht - und das ganz ohne die schweren Stabilisierungsleisten, die für den Resonanzkörper einer konventionellen Steelstring erforderlich sind. Somit wird das Gewicht in einem weiteren Punkt immens reduziert. Sowohl die charakteristische Energie der ergo als auch ihr charismatischer Klang sind in weiten Teilen dem so überaus vorteilhaften Verhältnis zwischen Festigkeit und Gewicht zu verdanken.<br><br>
+
+
+  <i><b>*</b> <b>zum Patent angemeldet</b></i></i><br><br></td><td width=20 align="left" valign="top"><img src="ergo_image_blank.gif" width=20 height=10 vspace=0 hspace=0 border=0></font></td>
+	</tr>
+</table>
+</H2>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Styles>
+	<Style name="Quote" element="span">
+		<Attribute name="class" value="quote" />
+	</Style>
+	<Style name="lighter" element="span">
+		<Attribute name="class" value="lighter" />
+	</Style>
+
+	<Style name="darker" element="span">
+		<Attribute name="class" value="darker" />
+	</Style>
+
+	<Style name="colored" element="span">
+		<Attribute name="class" value="colored" />
+	</Style>
+
+	<Style name="highlighted" element="span">
+		<Attribute name="class" value="highlighted" />
+	</Style>
+</Styles>

@@ -1,0 +1,42 @@
+<html>
+<head>
+
+<title>Ergo Guitars by Charles Fox</title>
+
+<meta name="content-language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="index,follow,imageindex">
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+if (top.location == self.location) {
+self.location.replace ("index.htm") }
+// -->
+</script>
+
+<script src="ergo_js_message.js" language="JavaScript" type="text/Javascript">
+</script>
+
+<style>
+H1 {position:absolute;top:0;left:800}
+</style>
+<link rel='stylesheet' type='text/css' href='ergo_style.css'>
+
+
+</head>
+<body bgcolor="#000000" topmargin=0 leftmargin=0 marginheight=40 marginwidth=0 >
+<table width="100%" align="right"> 
+<tr>
+<td width="100%" align="right">
+<font class="ergo">
+<a href="ergo_sound.htm" target="content_frame" class="likeflash">sound</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+
+<a href="ergo_news.htm" target="content_frame" class="likeflash">news</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+
+also visit <a href="http://charlesfoxguitars.com/" target="_blank" >charlesfoxguitars.com</a> &nbsp;
+</font>
+</td>
+</tr>
+</table>
+</body>
+</html>

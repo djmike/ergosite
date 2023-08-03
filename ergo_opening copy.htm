@@ -74,6 +74,7 @@
       font-size: 1em;
     }
 
+    .navgroup {}
   </style>
 
 </head>
@@ -93,19 +94,14 @@
     </div>
     <!-- top header end -->
 
-    <div class="row " id="contentDiv" style="height: 353px; visibility: hidden;">
-      
+    <div class="row " style="height: 353px;">
       <div>
         <img src="ergo_montage_1-2.gif" width=1015 height=353 border=0 vspace=0>
       </div>
       <div class="bg-danger border-2 border-top border-danger">
       </div>
     </div>
-    
   </div>
-
-
-
   <!-- Bottom Nav section -->
   <div class=" container h-100 bg-black text-center">
     <div class="row align-items-center" style="height: 200px;">
@@ -122,7 +118,7 @@
               </div>
               <div class="col">
                 <li class="nav-item dropdown">
-                  <a class="nav-link" href="#" id="introlink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     introduction
                   </a>
                   <ul class="dropdown-menu">
@@ -193,7 +189,6 @@
       const $dropdownToggle = $(".dropdown-toggle");
       const $dropdownMenu = $(".dropdown-menu");
       const showClass = "show";
-      
       $(window).on("load resize", function () {
         if (this.matchMedia("(min-width: 768px)").matches) {
           $dropdown.hover(
@@ -214,8 +209,6 @@
           $dropdown.off("mouseenter mouseleave");
         }
       });
-
-      function show
     </script>
 
 </body>

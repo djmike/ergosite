@@ -11,7 +11,7 @@
     body {
       color: #e11520;
       font-family: Arial, Helvetica, sans-serif !important;
-      /* background-color: black; */
+       background-color: black;
     }
 
     .text-my-own-color {
@@ -59,7 +59,9 @@
     }
 
     .dropdown-menu {
-      background-color: black;
+      /* background-color: black; */
+      background: transparent;
+    
     }
 
     .dropdown-item {
@@ -89,6 +91,81 @@
       <div class="col text-end">
         <img src="noir-blanc.gif" width=178 height=88 border=0 vspace=0>
       </div>
+
+ <!-- Bottom Nav section -->
+ <div class=" container h-100 bg-black text-center">
+  <div class="row align-items-center" style="height: 60px;">
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid bg-black text-center">
+
+        <div class=" collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="col align-items-center navbar-nav">
+            <div class="col">
+              <li class="nav-item">
+                <a class="nav-link" href="#">montage</a>
+              </li>
+            </div>
+            <div class="col">
+              <li class="nav-item dropdown">
+                <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  introduction
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">sound</a></li>
+                  <li><a class="dropdown-item" href="#">playability</a></li>
+                  <li><a class="dropdown-item" href="#">design</a></li>
+                  <li><a class="dropdown-item" href="#">materials</a></li>
+                  <li><a class="dropdown-item" href="#">workmanship</a></li>
+                </ul>
+              </li>
+
+            </div>
+            <div class="col">
+              <li class="nav-item">
+                <a class="nav-link" href="#">models</a>
+              </li>
+            </div>
+            <div class="col">
+              <li class="nav-item dropdown">
+                <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  features
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">low-mass soundboard</a></li>
+                  <li><a class="dropdown-item" href="#">wedge-shaped body</a></li>
+                  <li><a class="dropdown-item" href="#">elevated fingerboard</a></li>
+                  <li><a class="dropdown-item" href="#">adjustable sound port</a></li>
+                  <li><a class="dropdown-item" href="#">removable access panel</a></li>
+                </ul>
+              </li>
+            </div>
+            <div class="col">
+
+              <li class="nav-item">
+                <a class="nav-link" href="#">options</a>
+              </li>
+            </div>
+            <div class="col">
+              <li class="nav-item">
+                <a class="nav-link" href="#">ordering</a>
+              </li>
+            </div>
+            <div class="col">
+              <li class="nav-item">
+                <a class="nav-link" href="#">contact</a>
+              </li>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+  </div>
+</div>
+<!-- end bottom nav -->
+
+
       <div class="bg-danger border-2 border-top border-danger">
       </div>
     </div>
@@ -102,78 +179,7 @@
       </div>
     </div>
   </div>
-  <!-- Bottom Nav section -->
-  <div class=" container h-100 bg-black text-center">
-    <div class="row align-items-center" style="height: 200px;">
-
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid bg-black text-center">
-
-          <div class=" collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="col align-items-center navbar-nav">
-              <div class="col">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">montage</a>
-                </li>
-              </div>
-              <div class="col">
-                <li class="nav-item dropdown">
-                  <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    introduction
-                  </a>
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">sound</a></li>
-                    <li><a class="dropdown-item" href="#">playability</a></li>
-                    <li><a class="dropdown-item" href="#">design</a></li>
-                    <li><a class="dropdown-item" href="#">materials</a></li>
-                    <li><a class="dropdown-item" href="#">workmanship</a></li>
-                  </ul>
-                </li>
-
-              </div>
-              <div class="col">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">models</a>
-                </li>
-              </div>
-              <div class="col">
-                <li class="nav-item dropdown">
-                  <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    features
-                  </a>
-                  <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">low-mass soundboard</a></li>
-                    <li><a class="dropdown-item" href="#">wedge-shaped body</a></li>
-                    <li><a class="dropdown-item" href="#">elevated fingerboard</a></li>
-                    <li><a class="dropdown-item" href="#">adjustable sound port</a></li>
-                    <li><a class="dropdown-item" href="#">removable access panel</a></li>
-                  </ul>
-                </li>
-              </div>
-              <div class="col">
-
-                <li class="nav-item">
-                  <a class="nav-link" href="#">options</a>
-                </li>
-              </div>
-              <div class="col">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">ordering</a>
-                </li>
-              </div>
-              <div class="col">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">contact</a>
-                </li>
-              </div>
-            </ul>
-          </div>
-        </div>
-      </nav>
-
-    </div>
-  </div>
-  <!-- end bottom nav -->
+ 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
